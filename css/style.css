@@ -1,0 +1,66 @@
+.header{
+	background-color: pink;
+	height: 150px;
+	font-size: 60px;
+	text-align: center;
+	border: 5px solid #2A7263;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+.wrapper{
+	border: solid 4px #ABBF19;
+	overflow: hidden;
+}
+.blog{
+	background-color: purple;
+	height: 400px;
+	width: 70%;
+	font-size: 60px;
+	text-align:center;
+	color: white;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	float: left;
+}
+.contact{
+	background-color: navy;
+	height: 400px; 
+	width: 30%;
+	font-size: 60px;
+	text-align: center;
+	color: pink;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	float: right;
+}
+.container{
+	overflow: hidden;
+}
+.box{
+	min-height: 300px;
+	float: left;
+	border: 3px solid #E11EED;
+	font-size: 60px;
+	text-align: center;
+	color: antiquewhite;
+}
+.b1{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+background-color: red;
+width: 33%}
+.b2{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+background-color: blue;
+width: 32%}
+.b3{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+background-color: green;
+width: 33%}
+
+
+
+.footer{
+	background-color: tomato;
+	min-height: 100px;
+	text-align: center;
+	font-size: 60px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	border: 5px solid #2A7263;
+}
